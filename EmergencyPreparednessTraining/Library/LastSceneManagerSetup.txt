@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Evacuation.unity
+- path: Assets/Evacuation_Scenario/Evacuation.unity
   isLoaded: 1
   isActive: 1
