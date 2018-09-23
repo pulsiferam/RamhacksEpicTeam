@@ -153,6 +153,7 @@
   <ItemGroup>
     <None Include="Assets\Evacuation_Scenario\PyroParticles\Prefab\Materials\AdditiveTintable.shader" />
     <None Include="Assets\Evacuation_Scenario\PyroParticles\Readme.txt" />
+    <None Include="Assets\Laptop\StandardColorMask.shader" />
     <None Include="Assets\Oculus\Avatar\Content\Materials\AvatarMaterialStateShader.cginc" />
     <None Include="Assets\Oculus\Avatar\Content\Materials\AvatarSurfaceShader.shader" />
     <None Include="Assets\Oculus\Avatar\Content\Materials\AvatarSurfaceShaderPBS.shader" />

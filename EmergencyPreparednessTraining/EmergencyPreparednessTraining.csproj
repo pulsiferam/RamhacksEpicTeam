@@ -90,6 +90,8 @@
     <Compile Include="Assets\Evacuation_Scenario\Scripts\PlayerDie.cs" />
     <Compile Include="Assets\Evacuation_Scenario\Scripts\PlayerWin.cs" />
     <Compile Include="Assets\Evacuation_Scenario\Scripts\Timer.cs" />
+    <Compile Include="Assets\objectMovement.cs" />
+    <Compile Include="Assets\objectTable.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AmbienceEmitter.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AudioManager.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AudioManager_Sound.cs" />
@@ -300,10 +302,12 @@
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRScreenFade.cs" />
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRTrackedRemote.cs" />
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRWaitCursor.cs" />
+    <Compile Include="Assets\SafetyViolation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Evacuation_Scenario\PyroParticles\Prefab\Materials\AdditiveTintable.shader" />
     <None Include="Assets\Evacuation_Scenario\PyroParticles\Readme.txt" />
+    <None Include="Assets\Laptop\StandardColorMask.shader" />
     <None Include="Assets\Oculus\Avatar\Content\Materials\AvatarMaterialStateShader.cginc" />
     <None Include="Assets\Oculus\Avatar\Content\Materials\AvatarSurfaceShader.shader" />
     <None Include="Assets\Oculus\Avatar\Content\Materials\AvatarSurfaceShaderPBS.shader" />
