@@ -15,9 +15,12 @@ public class Timer : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        time -= Time.deltaTime;
-        timerText.text = "Time: " + (int)time;
-        if (time <= 0)
+        if (time > 0)
+        {
+            time -= Time.deltaTime;
+            timerText.text = "Time: " + (int)time;
+        }
+        else
         {
             SceneManager.LoadScene("MainMenu");
         }
