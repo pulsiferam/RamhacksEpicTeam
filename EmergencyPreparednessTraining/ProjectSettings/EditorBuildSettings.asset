@@ -6,14 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-<<<<<<< HEAD
     path: Assets/ClassRoom Stuff/Showcase.unity
     guid: 2be81db4a3c318c45aadcf13033436c8
-  m_configObjects: {}
-=======
+  - enabled: 1
     path: Assets/Evacuation_Scenario/Evacuation.unity
     guid: f1c43c1f1ef6d1b4eba95576b7b2ffd9
   - enabled: 1
     path: Assets/MainMenu.unity
     guid: 5f7872dcf91527e4e829371fc3ef94ad
->>>>>>> 54e71f0e979bd056943bfd459cf6707a4c399883
+  m_configObjects: {}
