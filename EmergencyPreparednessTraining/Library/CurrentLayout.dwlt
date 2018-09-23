@@ -314,7 +314,7 @@ MonoBehaviour:
     width: 1223
     height: 252
   m_SearchFilter:
-    m_NameFilter: ovr
+    m_NameFilter: 
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -325,19 +325,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Oculus/VR
+    - Assets/Evacuation_Scenario
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Oculus/VR
+  - Assets/Evacuation_Scenario
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Ashleigh\Documents\GitHub\RamhacksEpicTeam\EmergencyPreparednessTraining
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 421}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b40500000828000054280000c4280000762a0000802a0000a02b0000a42b0000ae2c0000102d00003c2d0000a82d0000be2d0000aa340000ac34000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: ac2d0000
+    m_LastClickedID: 11692
+    m_ExpandedIDs: 00000000b40500000c28000058280000c82800007a2a0000842a0000a42b0000a82b0000b22c0000142d0000402d0000ac2d0000c22d0000763700007837000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -365,7 +365,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000828000054280000c4280000802a0000a42b0000ae2c0000102d0000a82d0000be2d0000aa340000ac340000
+    m_ExpandedIDs: 00000000b40500000c28000058280000c82800007a2a0000842a0000a42b0000a82b0000b22c0000142d0000402d0000ac2d0000c22d00007637000078370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -417,7 +417,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 480}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 219
 --- !u!114 &14
@@ -446,7 +446,7 @@ MonoBehaviour:
     y: 92
     width: 309
     height: 750
-  m_ScrollPosition: {x: 0, y: 213.95508}
+  m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 160
@@ -481,23 +481,23 @@ MonoBehaviour:
     height: 477
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c420fbff
-    m_LastClickedID: -319292
-    m_ExpandedIDs: f0dffcffde0afdfff60afdff02bafdffd076ffff8677ffff1afcffff00000000702e0000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: fe3cffffca5dffffc0b4ffff9ce8ffff1afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Lighting (1)
-      m_OriginalName: Lighting (1)
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -284808
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
@@ -538,9 +538,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -19.243, y: 2.762, z: -12.92}
+    m_Target: {x: 119.77481, y: -89.92346, z: 366.44293}
     speed: 2
-    m_Value: {x: -19.243, y: 2.762, z: -12.92}
+    m_Value: {x: 119.77481, y: -89.92346, z: 366.44293}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -563,13 +563,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.300123, y: 0.5714566, z: -0.2361151, w: -0.72636986}
+    m_Target: {x: -0.18520898, y: -0.018575124, z: 0.003501886, w: -0.98251736}
     speed: 2
-    m_Value: {x: -0.300123, y: 0.5714566, z: -0.2361151, w: -0.72636986}
+    m_Value: {x: -0.18520898, y: -0.018575124, z: 0.003501886, w: -0.98251736}
   m_Size:
-    m_Target: 3.7914102
+    m_Target: 687.87067
     speed: 2
-    m_Value: 3.7914102
+    m_Value: 687.87067
   m_Ortho:
     m_Target: 0
     speed: 2

@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Fire
   - FireTrigger
+  - table
   layers:
   - Default
   - TransparentFX

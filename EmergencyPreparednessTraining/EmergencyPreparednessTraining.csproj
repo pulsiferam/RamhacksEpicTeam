@@ -88,6 +88,7 @@
     <Compile Include="Assets\Evacuation_Scenario\Scripts\MakeInvisible.cs" />
     <Compile Include="Assets\Evacuation_Scenario\Scripts\PlayerCrouch.cs" />
     <Compile Include="Assets\Evacuation_Scenario\Scripts\PlayerDie.cs" />
+    <Compile Include="Assets\Evacuation_Scenario\Scripts\Timer.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AmbienceEmitter.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AudioManager.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AudioManager_Sound.cs" />
