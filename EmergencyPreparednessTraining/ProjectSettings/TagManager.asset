@@ -3,11 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
+  tags: []
+=======
   tags:
   - Fire
   - FireTrigger
   - table
   - WinTrigger
+>>>>>>> 54e71f0e979bd056943bfd459cf6707a4c399883
   layers:
   - Default
   - TransparentFX
@@ -17,7 +21,7 @@ TagManager:
   - UI
   - 
   - 
-  - FireLayer
+  - 
   - 
   - 
   - 
