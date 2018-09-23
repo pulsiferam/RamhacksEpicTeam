@@ -85,6 +85,8 @@
     <Compile Include="Assets\Evacuation_Scenario\PyroParticles\Prefab\Script\FireProjectileScript.cs" />
     <Compile Include="Assets\Evacuation_Scenario\PyroParticles\Prefab\Script\MeteorSwarmScript.cs" />
     <Compile Include="Assets\Evacuation_Scenario\PyroParticles\Prefab\Script\SingleLineAttribute.cs" />
+    <Compile Include="Assets\Evacuation_Scenario\Scripts\MakeInvisible.cs" />
+    <Compile Include="Assets\Evacuation_Scenario\Scripts\PlayerCrouch.cs" />
     <Compile Include="Assets\Evacuation_Scenario\Scripts\PlayerDie.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AmbienceEmitter.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AudioManager.cs" />
