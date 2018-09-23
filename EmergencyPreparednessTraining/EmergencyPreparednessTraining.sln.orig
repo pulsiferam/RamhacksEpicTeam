@@ -1,0 +1,49 @@
+<<<<<<< HEAD
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{BF8ABEB8-EEC5-3DE3-ABD3-E76401AD06A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF8ABEB8-EEC5-3DE3-ABD3-E76401AD06A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8ABEB8-EEC5-3DE3-ABD3-E76401AD06A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8ABEB8-EEC5-3DE3-ABD3-E76401AD06A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8ABEB8-EEC5-3DE3-ABD3-E76401AD06A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmergencyPreparednessTraining", "EmergencyPreparednessTraining.csproj", "{E4265D16-6D40-C209-1754-A0F56CDB9013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmergencyPreparednessTraining.Editor", "EmergencyPreparednessTraining.Editor.csproj", "{43AE4CE9-DA91-9E43-83E5-FF3F62F4B578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4265D16-6D40-C209-1754-A0F56CDB9013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4265D16-6D40-C209-1754-A0F56CDB9013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4265D16-6D40-C209-1754-A0F56CDB9013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4265D16-6D40-C209-1754-A0F56CDB9013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43AE4CE9-DA91-9E43-83E5-FF3F62F4B578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AE4CE9-DA91-9E43-83E5-FF3F62F4B578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AE4CE9-DA91-9E43-83E5-FF3F62F4B578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AE4CE9-DA91-9E43-83E5-FF3F62F4B578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+>>>>>>> 43142c85ac21790e95b680b1750d76e461762e80
