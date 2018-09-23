@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using System.Threading;
+using UnityEngine.SceneManagement;
+
 public class SafetyViolation : MonoBehaviour {
 
     public Text uiText;
@@ -31,7 +33,7 @@ public class SafetyViolation : MonoBehaviour {
         if (numberOfSafetyViolations == 0)
         {
             uiText.text = "Level complete! FIRE DRILL! Exit the room.";
-            GameObject newObject = new GameObject();
+            SceneManager.LoadSceneAsync("Evacuation");
         }
         else
         {

@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/ClassRoom Stuff/Showcase.unity
-=======
 - path: Assets/Evacuation_Scenario/Evacuation.unity
->>>>>>> 43142c85ac21790e95b680b1750d76e461762e80
   isLoaded: 1
   isActive: 1
