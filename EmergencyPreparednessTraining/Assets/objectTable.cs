@@ -9,15 +9,18 @@ public class objectTable : MonoBehaviour {
     public void Start()
     {
         textui.text = "Pick object for your emergency kit";
+      
     }
 
     void OnTriggerEnter(Collider col)
     {
-        if (col.tag == "good")
+        
+            if (col.tag == "good")
         {
             Debug.Log("collided");
             // Destroy(col.gameObject);
             textui.text = "Good Job";
+           col.gameObject.tag = "notgood";
         }
         else
             textui.text = "You might die!";

@@ -31,20 +31,20 @@ public class Controller : MonoBehaviour {
 
             RaycastHit hit;
             // Does the ray intersect any objects excluding the player layer
-            if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), out hit, Mathf.Infinity, layerMask))
+            if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), out hit, layerMask))
             {
                 Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.forward) * hit.distance, Color.yellow);
                 Debug.Log("Did Hit");
                 if(hit.transform.tag == "SafetyViolation")
                 {
                     Debug.Log("MADE IT HERE");
+                    DoObjectsExist();
                     DestroyImmediate(hit.collider.gameObject);
                     if (GameObject.FindGameObjectsWithTag("SafetyViolation").Length <= 0)
                     {
                         uiText.text = "Level complete! FIRE DRILL! Exit the room.";
                         SceneManager.LoadSceneAsync("Evacuation");
                     }
-                    DoObjectsExist();
                     
                 }
                 

@@ -74,6 +74,8 @@
     <Compile Include="Assets\Evacuation_Scenario\Scripts\PlayerDie.cs" />
     <Compile Include="Assets\Evacuation_Scenario\Scripts\PlayerWin.cs" />
     <Compile Include="Assets\Evacuation_Scenario\Scripts\Timer.cs" />
+    <Compile Include="Assets\objectMovement.cs" />
+    <Compile Include="Assets\objectTable.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AmbienceEmitter.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AudioManager.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AudioManager_Sound.cs" />
@@ -289,6 +291,7 @@
     <None Include="Assets\Oculus\Avatar\Resources\Materials\Version1.5\Avatar_PC_SingleComponent.shader" />
     <None Include="Assets\Oculus\VR\Resources\OVRMRUnlitTransparent.shader" />
     <None Include="Assets\Oculus\VR\Resources\OVRMRChromaKey.cginc" />
+    <None Include="Assets\Laptop\StandardColorMask.shader" />
     <None Include="Assets\Oculus\Avatar\Resources\Materials\Version1.5\Avatar_Mobile_Loader.shader" />
     <None Include="Assets\Oculus\VR\Shaders\OVRColorRampAlpha.shader" />
     <None Include="Assets\Oculus\Avatar\Content\Materials\AvatarSurfaceShader.shader" />
